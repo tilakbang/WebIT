@@ -1,5 +1,5 @@
 body{
-    background-image: url(/laptop_backgrnd.jpg);
+    background-image: url(./laptop_backgrnd.jpg);
     object-fit: contain;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
